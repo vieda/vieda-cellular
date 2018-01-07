@@ -1,0 +1,25 @@
+header,
+footer {
+	color: white;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+header {
+	margin-bottom: 16px;
+}
+
+section>header {
+	color: black;
+	margin: 0px;
+	text-decoration: underline;
+}
+
+#cv-photo>#img-profile {
+	max-height: 200px;
+}
+
+#cv-about>p {
+	text-indent: 32px;
+	text-align: justify;
+}
